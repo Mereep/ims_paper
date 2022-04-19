@@ -1,1 +1,5 @@
 git+https://git.example.com/corepkg.git@release#egg=lib_ims
+plotly
+matplotlib
+pandas
+numpy
