@@ -1,4 +1,4 @@
-git+https://git.example.com/corepkg.git@release#egg=lib_ims
+git+https://github.com/Mereep/lib_ims@master#egg=lib_ims
 plotly
 matplotlib
 pandas
